@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Douglas Macdonald
 
 🎯 I’m a freelance data analyst helping small businesses and startups make data-driven decisions.  
 I specialize in cleaning messy data, building insightful dashboards, and automating reports.
@@ -31,8 +31,6 @@ I specialize in cleaning messy data, building insightful dashboards, and automat
 ---
 
 ### 📬 Let’s Connect
-- [LinkedIn](https://linkedin.com/in/yourname)
-- [Email](mailto:youremail@example.com)
-- [Portfolio Website](https://yourdomain.com)
+- https://github.com/dmanalytics-data/dmanalytics-data.github.io
 
 Thanks for stopping by! 🚀
